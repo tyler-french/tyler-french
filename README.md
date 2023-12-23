@@ -14,4 +14,4 @@ I’m currently working on the Go build and developer experience team at Uber!
 
 ### Articles 📝
 
-[![How We Halved Go Monorepo CI Build Time](https://blog.uber-cdn.com/cdn-cgi/image/width=960,quality=80,onerror=redirect,format=auto/wp-content/uploads/2022/06/CI-bog-post-cover-1-4.jpeg)](https://www.uber.com/blog/how-we-halved-go-monorepo-ci-build-time/)
+[How We Halved Go Monorepo CI Build Time](https://www.uber.com/blog/how-we-halved-go-monorepo-ci-build-time/)
