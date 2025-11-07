@@ -1,8 +1,8 @@
-### Hi there 👋
-
-I’m currently working on the Go build and developer experience team at Uber!
-
 ### My Talks 🎙️
+
+[BazelCon 2024 talk](https://bazelcon2024.sched.com/event/1h6S1/optimizing-gazelle-for-scale-and-performance-in-ubers-monorepo-tyler-french-uber) on Gazelle at Uber
+
+[![Optimizing Gazelle for Scale and Performance in Uber's Monorepo](https://img.youtube.com/vi/6NDnxHFbr6Q/0.jpg)](https://www.youtube.com/watch?v=6NDnxHFbr6Q)
 
 [BazelCon 2023](https://conf.bazel.build/) on Go Dependency management in Bzlmod at Uber:
 
